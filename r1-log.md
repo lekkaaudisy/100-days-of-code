@@ -4,4 +4,4 @@ The log of my #100DaysOfCode challenge. Started on [January 9, Tuesday, 2024].
 
 ## Log
 
-### R1D1 
+### [Round 1](https://github.com/lekkaaudisy/100-days-of-code/blob/master/log.md)
